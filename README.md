@@ -1,2 +1,3 @@
 # hello-world
 Beginning my journey in data analysis....
+Dan, 32 year old male, looking for skills. I enjoy long runs around Sloans Lake and fly fishing at sunset.
